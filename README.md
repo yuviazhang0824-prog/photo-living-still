@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-Not_specified-6c757d">
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-087ea4">
   <img alt="Works with Codex, Kimi and other agents" src="https://img.shields.io/badge/Works_with-Codex_%7C_Kimi_%7C_Other_Agents-5a9f0b">
   <img alt="Outputs MP4, GIF and Live Photo" src="https://img.shields.io/badge/Outputs-MP4_%7C_GIF_%7C_Live_Photo-087ea4">
   <img alt="Language: Chinese" src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-d04449">
@@ -215,7 +215,7 @@ python scripts/make_live_photo.py --help
 
 ## 许可协议
 
-本仓库目前尚未包含开源许可证。公开发布前请根据你的授权目标添加 `LICENSE`；如果希望允许他人自由使用、修改和分发，可以考虑 MIT License。
+本项目采用 [MIT License](LICENSE)，Copyright © 2026 mini-fish。你可以在许可证条款允许的范围内使用、复制、修改和分发本项目。
 
 ## 贡献
 
