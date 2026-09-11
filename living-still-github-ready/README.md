@@ -1,8 +1,20 @@
-# Living Still · 静中有动
+<h1 align="center">Living Still · 静中有动</h1>
 
-把普通照片转换成手绘风格的循环短片：整幅画面保持静止，只让一个符合场景的元素轻微运动。
+<p align="center">
+  <strong>一张照片，只让一个元素悄悄活起来。</strong><br>
+  Turn a still photo into a hand-drawn cinemagraph where exactly one natural element comes alive.
+</p>
 
-> Turn a still photo into a hand-drawn cinemagraph where exactly one natural element comes alive.
+---
+
+<p align="center">
+  <img alt="License: not specified" src="https://img.shields.io/badge/License-Not_specified-6c757d">
+  <img alt="Works with Codex, Kimi and other agents" src="https://img.shields.io/badge/Works_with-Codex_%7C_Kimi_%7C_Other_Agents-5a9f0b">
+  <img alt="Outputs MP4, GIF and Live Photo" src="https://img.shields.io/badge/Outputs-MP4_%7C_GIF_%7C_Live_Photo-087ea4">
+  <img alt="Language: Chinese" src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-d04449">
+</p>
+
+---
 
 `living-still` 是一个可复用的 AI Skill，包含完整的创作流程、动画元素选择规则、风格提示词，以及用于生成 MP4、GIF 和 Apple Live Photo 配对资源的辅助脚本。默认输出为适合小红书、Instagram、TikTok 和微信视频号的竖版 3:4 MP4。
 
