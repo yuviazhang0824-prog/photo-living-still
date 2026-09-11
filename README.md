@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img alt="License: not specified" src="https://img.shields.io/badge/License-Not_specified-6c757d">
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-Not_specified-6c757d">
   <img alt="Works with Codex, Kimi and other agents" src="https://img.shields.io/badge/Works_with-Codex_%7C_Kimi_%7C_Other_Agents-5a9f0b">
   <img alt="Outputs MP4, GIF and Live Photo" src="https://img.shields.io/badge/Outputs-MP4_%7C_GIF_%7C_Live_Photo-087ea4">
   <img alt="Language: Chinese" src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-d04449">
